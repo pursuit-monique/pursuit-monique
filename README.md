@@ -6,7 +6,7 @@
 I'm quite curious by nature.  Even during my downtime, I'm looking for ways to improve, and new information to absorb.    My Major ws Math & Science, but I'm a Peer Advocate by trade.  Due to this, the human condition is important to me, and I'm huge into advocacy.  My love for information and the human condition has lead me to work on a number of map projects.   I have my time spent in College studying ArcGIS to thank for this.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pursuit-monique&theme=chalk&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pursuit-monique&theme=chalk&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
